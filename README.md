@@ -30,7 +30,7 @@ I'm Khalil Hamdi ( See my [Portfolio](https://khalilhamdii.github.io/Portfolio/)
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-[![Khalil Hamdi's github stats](https://github-readme-stats.vercel.app/api?username=khalilhamdii&show_icons=true&theme=radical)](https://github.com/khalilhamdii/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilhamdii&show_icons=true&theme=radical&layout=compact)](https://github.com/khalilhamdii/github-readme-stats)
+[![Khalil Hamdi's github stats](https://github-readme-stats.vercel.app/api?username=khalilhamdii&show_icons=true&theme=buefy)](https://github.com/khalilhamdii/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilhamdii&show_icons=true&theme=buefy&layout=compact)](https://github.com/khalilhamdii/github-readme-stats)
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/khalilhamdii" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Khalilhamdiii" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/khalilhamdi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
