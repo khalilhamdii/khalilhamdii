@@ -4,7 +4,7 @@ I'm Khalil Hamdi ( See my [Portfolio](http://khalilhamdi.me/) ) , a Full Stack W
 
 **What I have been upto recently:**
 
-- 🔭 I’m currently working on an RPG Game called "Zombie Apocalypse".
+- 🔭 I’m currently working on a Front-End project with React & Redux called Daily meal .
 - 🌱 I’m currently learning React & Redux.
 - 💬 I can help you build a product, a feature or a website. Look through some of my work! If you like what you see and have a project you need coded, don’t hesistate to contact me.
 
