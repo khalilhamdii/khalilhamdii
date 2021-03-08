@@ -4,8 +4,8 @@ I'm Khalil Hamdi ( See my [Portfolio](http://khalilhamdi.me/) ) , a Full Stack W
 
 **What I have been upto recently:**
 
-- 🔭 I’m currently working on a Car Rent web application using React & Redux & Ruby On Rails .
-- 🌱 I’m currently reading about React to Rails authentification.
+- 🔭 I’m currently working on a full Facebook clone web application.
+- 🌱 I’m currently reading about Next Js.
 - 💬 I can help you build a product, a feature or a website. Look through some of my work! If you like what you see and have a project you need coded, don’t hesistate to contact me.
 
 <h3>Skills</h3>
