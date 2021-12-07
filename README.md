@@ -4,8 +4,8 @@ I'm Khalil Hamdi ( See my [Portfolio](http://khalilhamdi.me/) ) , a Full Stack W
 
 **What I have been upto recently:**
 
-- 🔭 I’m currently building a web application using Node Js, MongoDB & Express.
-- 🌱 I’m currently honing my skills in Node Js, MongoDB & Express.
+- 🔭 I’m currently learning Docker.
+- 🌱 I’m currently honing my skills in Docker.
 - 💬 I can help you build a product, a feature or a website. Look through some of my work! If you like what you see and have a project you need coded, don’t hesistate to contact me.
 
 <h3>Skills</h3>
